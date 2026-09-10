@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quran</string>
+
+    <!-- Common actions -->
+    <string name="action_back">Back</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_close">Close</string>
+    <string name="action_download">Download</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Temporary placeholder shown until the screens are built in later steps -->
+    <string name="skeleton_message">Project skeleton is ready. Screens are added step by step.</string>
+</resources>

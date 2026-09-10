@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window-level theme only; all in-app styling is done by the Compose theme. -->
+    <style name="Theme.Quran" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="colorPrimary">@color/brand_green</item>
+        <item name="colorAccent">@color/brand_gold</item>
+    </style>
+</resources>
